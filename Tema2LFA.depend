@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1588249597 source:c:\users\avram\desktop\lfa\tema2lfa\main.cpp
+	<iostream>
+	<set>
+	<fstream>
+	<bits/stdc++.h>
+
